@@ -1,0 +1,4 @@
+#--------------- Define your config key value settings details here
+# Set up the IMAP connection
+model: dreamlike-art/dreamlike-diffusion-1.0 # you can use other models also here
+telegram_bot_token: your_telegram_bot_token
